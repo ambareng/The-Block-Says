@@ -1,1 +1,3 @@
 # The-Block-Says
+
+A 2D mobile game where you have to swipe your screen in the same direction as the arrow is facing on the screen if the background color is blue however if the background color is red then you must swipe the opposite direction. If you fail to swipe within 2 seconds or if you swiped the wrong way then the game is over. The game also gets progressively harder as your score rises, you must swipe faster and faster.
